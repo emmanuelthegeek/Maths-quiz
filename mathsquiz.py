@@ -92,7 +92,6 @@ def main():
         option = option_input()
 
     print("Quit game.")
-    # display_separator()
     show_score(sum, valid)
 
 

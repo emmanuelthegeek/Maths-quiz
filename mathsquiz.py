@@ -12,8 +12,6 @@ def options():
     print(options_list[2])
     print(options_list[3])
     print(options_list[4])
-# def display_separator():
-#     print("-" * 24)
 
 
 def option_input():
@@ -84,7 +82,6 @@ def show_score(sum, valid):
 def main():
     title()
     options()
-    # display_separator()
 
     option = option_input()
     sum = 0
